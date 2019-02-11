@@ -18,7 +18,8 @@ $cart->decodeTextInput($input);
  // $cart->addItem("zen", "Asus Zenbook", -1);
  // $cart->addItem("len", "Lenovo P1", 8, 60.33, "USD");
  // $cart->addItem("zen", "Asus Zenbook", 1, 120.99, "EUR");
+
  //print_r($cart->getItems());
 
  // Printing out total price
- echo $cart->getTotalPrice("EUR");
+ echo "Current cart value is: ".$cart->getTotalPrice("EUR")."EUR\n";
