@@ -1,2 +1,2 @@
 # ShoppingCartTask
-The shopping ca.rt solution for the interview.
+The shopping cart solution for the interview.
